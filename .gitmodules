@@ -1,0 +1,3 @@
+[submodule "installation-guides"]
+	path = installation-guides
+	url = https://github.com/computational-psychiatry-course/tutorial-installation-guides.git
