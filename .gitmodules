@@ -1,3 +1,15 @@
 [submodule "installation-guides"]
 	path = installation-guides
 	url = https://github.com/computational-psychiatry-course/tutorial-installation-guides.git
+[submodule "tutorials/tutorial_K"]
+	path = tutorials/tutorial_K
+	url = https://github.com/bdtoolbox-org/bdtoolbox.git
+[submodule "tutorials/tutorial_G"]
+	path = tutorials/tutorial_G
+	url = git@github.com:AshleyTyrer/DCM_for_ERPs.git
+[submodule "tutorials/tutorial_E"]
+	path = tutorials/tutorial_E
+	url = git@github.com:MBB-team/VBA-toolbox.git
+[submodule "tutorials/tutorial_F"]
+	path = tutorials/tutorial_F
+	url = git@github.com:CharFraza/CPC_ML_tutorial.git
