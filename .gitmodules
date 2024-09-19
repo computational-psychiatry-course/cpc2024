@@ -13,3 +13,6 @@
 [submodule "tutorials/tutorial_F"]
 	path = tutorials/tutorial_F
 	url = git@github.com:CharFraza/CPC_ML_tutorial.git
+[submodule "tutorials/tutorial_B"]
+	path = tutorials/tutorial_B
+	url = git@github.com:rssmith33/Active-Inference-Tutorial-Scripts.git
