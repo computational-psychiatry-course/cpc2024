@@ -8,7 +8,7 @@
 	path = tutorials/tutorial_G
 	url = git@github.com:AshleyTyrer/DCM_for_ERPs.git
 [submodule "tutorials/tutorial_E"]
-	path = tutorials/tutorial_E
+	path = tutorials/tutorial_E/VBA_toolbox
 	url = git@github.com:MBB-team/VBA-toolbox.git
 [submodule "tutorials/tutorial_F"]
 	path = tutorials/tutorial_F
